@@ -52,9 +52,9 @@ interests  :
 **⚙️ Backend**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/> &nbsp;
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=000) &nbsp;
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40" height="40" style="filter:invert(1)"/>
+![JWT](https://img.shields.io/badge/JWT-purple?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-1a1a2e?style=flat-square&logo=socketdotio&logoColor=white&labelColor=444)
 
 **🗄️ Base de Datos**
 
@@ -64,7 +64,7 @@ interests  :
 **🛠️ Tools**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" style="filter:invert(1)"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/> &nbsp;
 ![Google Maps](https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
@@ -113,7 +113,7 @@ trasteando = {
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
-![Visitor Count](https://profile-counter.glitch.me/isanarmu/count.svg)
+![Visitors](https://komarev.com/ghpvc/?username=isanarmu&color=00ff41&style=flat-square&label=Profile+Views)
 
 </div>
 
