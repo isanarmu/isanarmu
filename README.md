@@ -12,7 +12,7 @@
 </div>
 
 ---
-<img align="right" src="https://github.com/user-attachments/assets/c35f78ab-e087-4c55-a026-112ad2a27623" width="295px" style="border-radius: 16px;"/>
+<img align="right" src="https://github.com/user-attachments/assets/c35f78ab-e087-4c55-a026-112ad2a27623" width="270px" style="border-radius: 16px;"/>
 
 ### `> whoami`
 
