@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- HEADER: si no carga en el editor, sí carga en GitHub -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Irene%20S%C3%A1nchez&fontSize=70&color=0:00ff41,50:008f11,100:003b00&fontColor=00ff41&animation=fadeIn&stroke=00ff41&strokeWidth=2&desc=%3C%2F%3E%20Full%20Stack%20Developer&descSize=25&descAlignY=68&descFontColor=ffffff" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=20&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=620&lines=console.log(%22Hola%2C+soy+Irene+%F0%9F%91%8B%22);const+stack+%3D+%5B'React'%2C+'Flask'%2C+'PostgreSQL'%5D;%2F%2F+Junior+Dev+buscando+su+primer+reto+%F0%9F%9A%80;git+commit+-m+%22disponible+para+trabajar%22)](https://git.io/typing-svg)
@@ -14,7 +13,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340px"/>
+<img align="right" src="https://i.imgur.com/A6bWGFl.gif" width="340px"/>
 
 ### `> whoami`
 
@@ -119,15 +118,11 @@ trasteando = {
 
 ---
 
-### `> snake --run`
+### ✍️ Dev Quote of the day
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isanarmu/isanarmu/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isanarmu/isanarmu/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
