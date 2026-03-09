@@ -12,10 +12,7 @@
 </div>
 
 ---
-<img align="right" src="https://github.com/user-attachments/assets/c35f78ab-e087-4c55-a026-112ad2a27623" width="270px" style="border-radius: 16px;"/>
-
 ### `> whoami`
-
 ```bash
 $ cat irene.json
 {
@@ -26,6 +23,11 @@ $ cat irene.json
   "idiomas"   : ["Español 🇪🇸", "English 🇬🇧"],
   "fun_fact"  : "Fui azafata ✈️ antes de pilotar código"
 }
+```
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/c35f78ab-e087-4c55-a026-112ad2a27623" width="280px"/>
+</div>
 ```
 
 <br/><br/><br/>
