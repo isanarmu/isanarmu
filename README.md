@@ -10,25 +10,18 @@
 ![Visitors](https://komarev.com/ghpvc/?username=isanarmu&color=00ff41&style=for-the-badge&label=Visitas)
 
 </div>
+<img align="right" src="https://github.com/user-attachments/assets/c35f78ab-e087-4c55-a026-112ad2a27623" width="250px"/>
 
----
 ### `> whoami`
-```bash
-$ cat irene.json
-{
-  "nombre"    : "Irene Sánchez",
-  "rol"       : "Full Stack Developer",
-  "ubicación" : "Madrid 📍",
-  "estado"    : "🟢 Open to work",
-  "idiomas"   : ["Español 🇪🇸", "English 🇬🇧"],
-  "fun_fact"  : "Fui azafata ✈️ antes de pilotar código"
-}
-```
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/c35f78ab-e087-4c55-a026-112ad2a27623" width="280px"/>
-</div>
-```
+- 👩‍💻 **Nombre:** Irene Sánchez
+- 💼 **Rol:** Full Stack Developer
+- 📍 **Ubicación:** Madrid
+- 🟢 **Estado:** Open to work
+- 🌍 **Idiomas:** Español 🇪🇸 · English 🇬🇧
+- ✈️ **Fun fact:** Fui azafata antes de pilotar código
+
+<br clear="right"/>
 
 <br/><br/><br/>
 
