@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irene-sanchez-armu)
 [![Gmail](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irene.armu99@gmail.com)
 [![Live App](https://img.shields.io/badge/🗝️_Trasteando-Live-3B82F6?style=for-the-badge)](https://trasteando.onrender.com/)
+<br></br>
 ![Views](https://dynamic-repo-badges.vercel.app/svg/count/7/Repository%20Views/your-repo)
 
 </div>
