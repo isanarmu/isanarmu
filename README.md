@@ -1,4 +1,5 @@
 <div align="center">
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/aa2a0c4b-655f-40a8-bd49-539e9c066eea" />
 
 ![Blackhole Banner](https://ishan-rest.vercel.app/svg/banner/blackhole/Irene-Junior-Full-Stack)
 
