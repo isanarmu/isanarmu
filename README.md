@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=20&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=620&lines=console.log(%22Hola%2C+soy+Irene+%F0%9F%91%8B%22);const+stack+%3D+%5B'React'%2C+'Flask'%2C+'PostgreSQL'%5D;%2F%2F+Junior+Dev+buscando+su+primer+reto+%F0%9F%9A%80;git+commit+-m+%22disponible+para+trabajar%22)](https://git.io/typing-svg)
 
+<img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="500"/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irene-sanchez-armu)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irene.armu99@gmail.com)
 [![Live App](https://img.shields.io/badge/🗝️_Trasteando-Live-00C851?style=for-the-badge)](https://trasteando.onrender.com/)
@@ -11,70 +13,63 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&width=100" width="100%"/>
 
-<img align="right" src="https://github.com/user-attachments/assets/c35f78ab-e087-4c55-a026-112ad2a27623" width="340px"/>
+## ├──📂 About me
 
-### `> whoami`
-
-```bash
-$ cat irene.json
-{
-  "nombre"    : "Irene Sánchez",
-  "rol"       : "Full Stack Developer",
-  "ubicación" : "Madrid 📍",
-  "estado"    : "🟢 Open to work",
-  "idiomas"   : ["Español 🇪🇸", "English 🇬🇧"],
-  "fun_fact"  : "Fui azafata ✈️ antes de pilotar código"
-}
+```
+name       : Irene Sánchez
+role       : Full Stack Developer
+location   : Madrid, España 📍
+status     : 🟢 Open to work — disponible inmediata
+languages  : Español 🇪🇸 (nativo) · English 🇬🇧 (nativo)
+fun_fact   : Fui azafata ✈️ antes de pilotar código
+interests  :
+  - Construir apps reales que funcionen en producción
+  - Trabajo en equipo y resolver problemas técnicos
+  - Seguir aprendiendo cada día
 ```
 
-<br/><br/><br/>
+## ├──📂 Links
 
----
+```
+> Connect with me:
+> linkedin  -> linkedin.com/in/irene-sanchez-armu
+> email     -> irene.armu99@gmail.com
+> live app  -> trasteando.onrender.com
+```
 
-### `> tech_stack --list`
+## ├──📂 My Toolbox
 
-<div align="center">
+**🎨 Frontend**
 
-**🎨 Front-End**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+**⚙️ Backend**
 
-**⚙️ Back-End**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2927?style=flat-square&logo=databricks&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/> &nbsp;
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=000) &nbsp;
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
 **🗄️ Base de Datos**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> &nbsp;
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2927?style=flat-square&logo=databricks&logoColor=white)
 
-**🛠️ Tools & Workflow**
+**🛠️ Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/> &nbsp;
+![Google Maps](https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 
-**♿ + Extras**
-
-![Google Maps API](https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6F00?style=flat-square&logo=fastapi&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-00C4CC?style=flat-square&logo=css3&logoColor=white)
-
-</div>
-
----
-
-### `> projects --featured`
+## ├──📂 Projects
 
 ```python
 trasteando = {
@@ -93,9 +88,7 @@ trasteando = {
 
 </div>
 
----
-
-### `> github --stats`
+## ├──📂 GitHub Stats
 
 <div align="center">
 
@@ -106,36 +99,22 @@ trasteando = {
 
 </div>
 
----
-
-### `> activity --graph`
+## ├──📂 Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=isanarmu&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=003b00&hide_border=true)](https://github.com/isanarmu)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=isanarmu&theme=github-compact&hide_border=true&title=Irene%20Activity%20Graph&line=00FF66&point=00FF66&bg_color=0d1117&color=00FF66)](https://github.com/isanarmu)
 
 </div>
 
----
-
-### ✍️ Dev Quote of the day
+## └──📂 Dev Quote
 
 <div align="center">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
-</div>
-
----
-
-<div align="center">
-
-### `> contact --open`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irene-sanchez-armu)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irene.armu99@gmail.com)
-[![Trasteando](https://img.shields.io/badge/🗝️_Trasteando-00C851?style=for-the-badge)](https://trasteando.onrender.com/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003b00,100:00ff41&height=120&section=footer&animation=twinkling" width="100%"/>
+![Visitor Count](https://profile-counter.glitch.me/isanarmu/count.svg)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100" width="100%"/>
