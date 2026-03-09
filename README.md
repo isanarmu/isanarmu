@@ -97,10 +97,6 @@ trasteando = {
 
 <img width="70%" src="https://streak-stats.demolab.com?user=isanarmu&hide_border=true&background=0D1117&stroke=7C3AED&ring=A855F7&fire=3B82F6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A855F7&sideLabels=A855F7&dates=AAAAAA"/>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api?username=isanarmu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=3B82F6&text_color=ffffff&count_private=true&include_all_commits=true"/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isanarmu&layout=donut&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=ffffff"/>
-
 </div>
 
 ## ├──📂 Activity
