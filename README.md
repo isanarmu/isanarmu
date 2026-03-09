@@ -14,9 +14,6 @@
 ---
 <img align="right" src="https://github.com/user-attachments/assets/c35f78ab-e087-4c55-a026-112ad2a27623" width="340px"/>
 
-<img al![gif proggramming girl](https://github.com/user-attachments/assets/c35f78ab-e087-4c55-a026-112ad2a27623)
-ign="right" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylukh-.gif?1596125112" width="340px"/>
-
 ### `> whoami`
 
 ```bash
