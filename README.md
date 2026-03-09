@@ -1,16 +1,15 @@
 <div align="center">
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/aa2a0c4b-655f-40a8-bd49-539e9c066eea" />
 
-![Blackhole Banner](https://ishan-rest.vercel.app/svg/banner/blackhole/Irene-Junior-Full-Stack)
+![Blackhole Banner](https://ishan-rest.vercel.app/svg/banner/blackhole/Irene-junior-full-stack)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=20&duration=3000&pause=1000&color=A855F7&background=00000000&center=true&vCenter=true&width=700&lines=console.log(%22Hola%2C+soy+Irene+%F0%9F%91%8B%22);const+stack+%3D+%5B'React'%2C+'Flask'%2C+'PostgreSQL'%5D;%2F%2F+Junior+Dev+buscando+su+primer+reto+%F0%9F%9A%80;git+commit+-m+%22disponible+para+trabajar%22)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="700"/>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irene-sanchez-armu)
 [![Gmail](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irene.armu99@gmail.com)
 [![Live App](https://img.shields.io/badge/🗝️_Trasteando-Live-3B82F6?style=for-the-badge)](https://trasteando.onrender.com/)
-![Visitors](https://komarev.com/ghpvc/?username=isanarmu&color=7c3aed&style=for-the-badge&label=Visitas)
+![Views](https://dynamic-repo-badges.vercel.app/svg/count/7/Repository%20Views/your-repo)
 
 </div>
 
@@ -28,6 +27,8 @@ interests  :
   - Trabajo en equipo y resolver problemas técnicos
   - Seguir aprendiendo cada día
 ```
+<br></br>
+<img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="700"/>
 
 ## ├──📂 Links
 
@@ -91,8 +92,9 @@ trasteando = {
 
 <div align="center">
 
-![Views](https://dynamic-repo-badges.vercel.app/svg/count/7/Repository%20Views/your-repo)
-<img width="71%" src="https://streak-stats.demolab.com?user=isanarmu&hide_border=true&background=0D1117&stroke=7C3AED&ring=A855F7&fire=3B82F6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A855F7&sideLabels=A855F7&dates=AAAAAA"/>
+
+<img width="71%" src="https://streak-stats.demolab.com?
+user=isanarmu&hide_border=true&background=0D1117&stroke=7C3AED&ring=A855F7&fire=3B82F6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A855F7&sideLabels=A855F7&dates=AAAAAA"/>
 
 </div>
 
@@ -117,9 +119,6 @@ trasteando = {
 <div align="center">
 
 <img src="https://github.com/leereilly/leereilly/blob/master/game.gif?raw=true" width="700"/>
-
-[![Play Space Invaders](https://img.shields.io/badge/👾_Play_Space_Invaders-Click_to_play!-A855F7?style=for-the-badge&labelColor=0d1117)](https://elgoog.im/space-invaders/)
-
 </div>
 
 <p align="center">
