@@ -1,6 +1,6 @@
 <div align="center">
 
-![Blackhole Banner](https://ishan-rest.vercel.app/svg/banner/blackhole/Irene-junior-full-stack)
+![Blackhole Banner](https://ishan-rest.vercel.app/svg/banner/blackhole/Irene-full-stack)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=20&duration=3000&pause=1000&color=A855F7&background=00000000&center=true&vCenter=true&width=700&lines=console.log(%22Hola%2C+soy+Irene+%F0%9F%91%8B%22);const+stack+%3D+%5B'React'%2C+'Flask'%2C+'PostgreSQL'%5D;%2F%2F+Junior+Dev+buscando+su+primer+reto+%F0%9F%9A%80;git+commit+-m+%22disponible+para+trabajar%22)](https://git.io/typing-svg)
 
